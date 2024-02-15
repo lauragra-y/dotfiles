@@ -1,0 +1,32 @@
+# Brew taps
+tap "homebrew/command-not-found"
+tap "teamookla/speedtest"
+
+# Brew packages (CLI apps)
+brew "eza"
+brew "neovim"
+brew "pure"
+brew "pyenv"
+brew "stow"
+brew "tldr"
+brew "tree"
+brew "wget"
+brew "zsh-syntax-highlighting"
+brew "docker"
+brew "coreutils"
+brew "mackup"
+brew "speedtest"
+
+# Brew casks (desktop apps)
+cask "1password"
+cask "adobe-acrobat-reader"
+cask "alfred"
+cask "firefox"
+cask "google-chrome"
+cask "karabiner-elements"
+cask "rectangle"
+cask "spotify"
+cask "vanilla"
+cask "visual-studio-code"
+cask "iterm2"
+cask "slack"

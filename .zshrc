@@ -53,4 +53,4 @@ fi
 ## Installed by Homebrew
 ## Keep at end of file
 ##
-source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source "$(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"

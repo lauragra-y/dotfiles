@@ -3,6 +3,7 @@ tap "homebrew/command-not-found"
 tap "teamookla/speedtest"
 
 # Brew packages (CLI apps)
+brew "git"
 brew "eza"
 brew "neovim"
 brew "pure"
@@ -31,3 +32,4 @@ cask "vanilla"
 cask "visual-studio-code"
 cask "iterm2"
 cask "slack"
+cask "jetbrains-toolbox"

@@ -1,6 +1,7 @@
 # Suppress .lesshst file
 export LESSHISTFILE=-
 
+
 # Pyenv
 # https://github.com/pyenv/pyenv
 # Installed via Homebrew
